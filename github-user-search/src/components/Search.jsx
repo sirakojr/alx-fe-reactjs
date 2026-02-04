@@ -107,3 +107,4 @@ const Search = () => {
 };
 
 export default Search;
+["avatar_url", "Looks like we cant find the user", "img"]
