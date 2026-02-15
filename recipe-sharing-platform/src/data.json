@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "src/image/spaghetti.jpg",
+    "ingredients": "dried spaghetti, guanciale (cured pork cheek), fresh Pecorino Romano cheese, eggs (yolks or a mix of whole/yolks), and coarse black pepper",
+    "description": "A classic Roman pasta dish renowned for its rich, silky sauce made without cream, relying instead on a mixture of raw eggs, hard cheese, and hot pasta water. It typically features spaghetti tossed with crispy, cured pork (traditionally guanciale or pancetta) and generously seasoned with black pepper. The dish is famous for being a quick, comforting meal. "
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "src/image/chickenTikka.jpg",
+    "ingredients": "yogurt-marinated chicken thighs, aromatics (garlic, ginger, onions), tomato purée/paste, cream, and spices like garam masala, cumin, coriander, and Kashmiri chili powder.",
+    "description": "A globally popular dish featuring marinated, roasted chicken chunks (tikka) simmered in a rich, creamy, and spiced orange-colored tomato sauce (masala). Often considered a British-Indian fusion, it combines smoky grilled chicken with a savory sauce made from yogurt, cream, garlic, ginger, and spices like garam masala, turmeric, and cumin."
+  },
+  {
+    "id": 3,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "src/image/spaghetti.jpg",
+    "ingredients": "dried spaghetti, guanciale (cured pork cheek), fresh Pecorino Romano cheese, eggs (yolks or a mix of whole/yolks), and coarse black pepper",
+    "description": "A classic Roman pasta dish renowned for its rich, silky sauce made without cream, relying instead on a mixture of raw eggs, hard cheese, and hot pasta water. It typically features spaghetti tossed with crispy, cured pork (traditionally guanciale or pancetta) and generously seasoned with black pepper. The dish is famous for being a quick, comforting meal. "
+  },
+  {
+    "id": 4,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "src/image/chickenTikka.jpg",
+    "ingredients": "yogurt-marinated chicken thighs, aromatics (garlic, ginger, onions), tomato purée/paste, cream, and spices like garam masala, cumin, coriander, and Kashmiri chili powder. ",
+    "description": "Chicken tikka masala is a globally popular dish featuring marinated, roasted chicken chunks (tikka) simmered in a rich, creamy, and spiced orange-colored tomato sauce (masala). Often considered a British-Indian fusion, it combines smoky grilled chicken with a savory sauce made from yogurt, cream, garlic, ginger, and spices like garam masala, turmeric, and cumin."
+  }
+]
