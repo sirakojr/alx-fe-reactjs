@@ -1,9 +1,10 @@
 import "./App.css";
-import Search from "./components/Search";
-
+import UserProfile from "./components/UserProfile";
 function App() {
   return (
-    <Search/>
+    <>
+      <UserProfile />
+    </>
   );
 }
 
